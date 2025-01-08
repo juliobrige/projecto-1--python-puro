@@ -1,5 +1,5 @@
 from sqlmodel import Field, SQLModel, create_engine
-from model import *
+from .model import *
 
 
 
